@@ -1,0 +1,15 @@
+**.DS_Store
+**.env
+**.file_versions
+**.gitkeep
+**.log
+**.logs/
+**.mage_temp_profiles
+**.preferences.yaml
+**docker-compose.override.yml
+**mage-ai.db
+**.variables/
+**__pycache__/
+**logs/
+**mage_data/
+**secrets/
